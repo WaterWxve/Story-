@@ -1,1 +1,7 @@
-Damn, my code got a bug. Ahhhh, this isn't how its supposed to be.
+Damn, my code got a bug. Ahhhh, this isn't how its supposed to be. 
+
+--2 hours later--
+What? Oh gosh! I made more bugs
+
+--After a nap--
+Ah yes! Let's see what I can do now. Wait wtf, Why is my program crashing?
